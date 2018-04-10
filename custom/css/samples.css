@@ -1,0 +1,41 @@
+/* - - - - - - - - - - - - - - - - - - - - -
+CONTAINER
+- - - - - - - - - - - - - - - - - - - - - */
+
+.container
+{
+  margin-top: 50px;
+}
+
+.container h1
+{
+  margin: 0;
+}
+
+.container p
+{
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+
+
+/* - - - - - - - - - - - - - - - - - - - - -
+FOOTER
+- - - - - - - - - - - - - - - - - - - - - */
+
+.mini-footer
+{
+  background-color: lightblue;
+  margin-top: 50px;
+}
+
+.mini-footer .container
+{
+  padding: 2% 0 2% 0;
+}
+
+#moreSensors
+{
+  float: right;
+}
